@@ -1,9 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9695052-35eb-4dd9-8b6c-43a4382c7e89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/UserSession.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/userDetails.models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/userDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/add-category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/add-storemanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/admin-login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/delete-storemanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/storemanager-login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/update-storemanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/view-storemanager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bUQjFrxKlq3ZHmCjvxaCU8sHOm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9695052-35eb-4dd9-8b6c-43a4382c7e89" name="Default Changelist" comment="" />
+      <created>1588684325853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588684325853</updated>
+      <workItem from="1588684327465" duration="17826000" />
+      <workItem from="1588786438134" duration="7283000" />
+      <workItem from="1588865824596" duration="6717000" />
+      <workItem from="1588916656488" duration="5210000" />
+      <workItem from="1588948903189" duration="13435000" />
+      <workItem from="1589027892353" duration="1133000" />
+      <workItem from="1589031310357" duration="8895000" />
+      <workItem from="1589084108976" duration="8742000" />
+      <workItem from="1589123796743" duration="4818000" />
+      <workItem from="1589289827604" duration="5718000" />
+      <workItem from="1589347945066" duration="8062000" />
+      <workItem from="1589378793902" duration="4348000" />
+      <workItem from="1589433314949" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#ESLint" timestamp="1589289970169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1589289970169" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589383338572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589383338572" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588788208050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1588788208050" />
   </component>
 </project>
